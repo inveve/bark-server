@@ -28,9 +28,9 @@ type PushMessage struct {
 }
 
 const (
-	topic  = "me.fin.bark"
-	keyID  = "LH4T9V5U4R"
-	teamID = "5U8LBRXG3A"
+	topic  = "cloud.bark.app"
+	keyID  = "7M8XZLPFWH"
+	teamID = "WTCD64FAVU"
 )
 
 var cli *apns2.Client
