@@ -1,11 +1,11 @@
 package apns
 
-// Bark push private key
+// Bask push private key
 const apnsPrivateKey = `-----BEGIN PRIVATE KEY-----
-MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg4vtC3g5L5HgKGJ2+
-T1eA0tOivREvEAY2g+juRXJkYL2gCgYIKoZIzj0DAQehRANCAASmOs3JkSyoGEWZ
-sUGxFs/4pw1rIlSV2IC19M8u3G5kq36upOwyFWj9Gi3Ejc9d3sC7+SHRqXrEAJow
-8/7tRpV+
+MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg+jv0H9u5ztXzgNp6
+kjMY7MdJO9RbFWBojbEYM1bxZsSgCgYIKoZIzj0DAQehRANCAASPea36/AN9e2X3
+50Z7KUwFaBeVtxYdm5wamnMmwrFL3b+TAQoz0A4o+7vnf2Q77/fkgFsI38DLQiCv
+v8nigpi7
 -----END PRIVATE KEY-----
 `
 
